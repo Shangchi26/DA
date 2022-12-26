@@ -417,7 +417,6 @@ section{
    font-size: 3rem;
    padding-top: 1rem;
    text-align: left;
-   border-top: 2px solid var(--main-color);
 }
 .container p{
    font-size: 1.6rem;
